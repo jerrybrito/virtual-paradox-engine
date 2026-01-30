@@ -1,0 +1,2 @@
+# Requires: eternal-uncertainty
+# (Not available on PyPI)
